@@ -15,7 +15,7 @@ arcpy.CheckOutExtension("Spatial")
 arcpy.env.overwriteOutput = True
 
 
-prism_variab = ["Tmin"]
+prism_variab = ["Tmin"] #hello
 
 for variable in prism_variab:
     if variable == r'Precip':
