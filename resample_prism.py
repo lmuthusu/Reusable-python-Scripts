@@ -7,7 +7,7 @@
 import os
 import glob
 
-
+#added a new line
 # Script projects PRISM 800m to ETRM Resolution
 # Check Out Spatial License & Enable Overwrite
 
