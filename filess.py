@@ -22,7 +22,7 @@ sub_dir =[]
 ##Initialize dictionary
 newdic ={}
 ##All files and directories in path listed
-files = os.listdir(path)
+files = os.listdir(path) #added comment
 
 for name in files:
     full_path = os.path.join(path, name)
