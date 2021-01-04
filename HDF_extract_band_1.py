@@ -17,7 +17,7 @@ hdf_list = glob.glob(r'E:\NDVI\HDF\*.hdf')
 outws = r'E:\NDVI\EXTRACTED_NDVI\\'
 
 # Extract Subset Data from HDF files into tiffs
-print("Commencing Extracting of HDF Data...")
+
 print()
 
 # For Loop to go through all the files and extract Bands
